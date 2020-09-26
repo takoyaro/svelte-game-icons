@@ -1,0 +1,2 @@
+<script>export let bg;export let fg;export let strokeWidth;export let strokeColor;export let style;</script>
+<svg style={style} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 0h512v512H0z" fill={bg}/><path stroke-width={strokeWidth} stroke={strokeColor} fill={fg} d="M452.798 479.462L59.205 481.31s154.378-369.683 151.153-379.303l-46.12-.224 93.677-71.09 95.207 72.397-50.263.224z"/></svg>
