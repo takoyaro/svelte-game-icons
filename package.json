@@ -21,8 +21,12 @@
     "dist"
   ],
   "description": "svelte-game-icons is a simple component wrapping the [game-icons](https://github.com/game-icons/icons) library for easy use in your Svelte projects.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {},
   "author": "takoyaro",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takoyaro/svelte-game-icons.git"
+  }
 }
